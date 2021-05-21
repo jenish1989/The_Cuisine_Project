@@ -2,6 +2,7 @@
 International Cuisine Guide for Multi-Cuisine Restaurants in Toronto
 
 INTRODUCTION
+
 The multi-cultural city like Toronto will be having people from around the world, migrated for better quaility of life and living standards. Eventhough on one can't forget their own homely food. Most people prefer to going restaurants serving cuisines they interested in. Now a days multi-cuisine restaurants are very common in cities, but to develop efficient and economical menu always challenging. To attract more customers, restaurants should try to study their surroundings. About possible cuisine options based on customer requirements. In this project I am trying to find different cultural groups on Toronto neighbourhoods, based on second most using language on local area. If such customer segment can be identified, we can propose nearby restaurants to upgrade their menu.
 
 I am trying to plot customer segments & restaurants location on map to determine any un-occupaid location for new restaurants OR suggestion for existing restautants to improve businesses.
