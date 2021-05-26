@@ -29,3 +29,6 @@ Using Foursquare API we can find nearby venues contains restaurants.
 METHOD OF ANALYSIS
 
 Using above mentiond data sets, we can perform Kmeans Clustering methods to find Second language cluster groups, which in turn will show different cultural groups. This clusters will be ploted on map along with existing restaurants. So that we can get idea about how well restaurants are placed, any chance for new restautants, Can we give suggestions to existing restaurants to upgrade their menu to increase their business. 
+
+Please ready full Article on
+https://www.linkedin.com/pulse/cuisine-project-jenish-justin-palathingal
